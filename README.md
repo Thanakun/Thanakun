@@ -1,7 +1,7 @@
 
-  Hi There ! , I am student of Faculty of Engineering , Chiang mai University 3rd year.
+  **Hi There ! My name is Thanakun Chunkalop , I am currently a student of Faculty of Engineering of Computer Engineering , Chiang mai University 3rd year.**
   
-  interested in ML/DL learning through many courses of marketing
+  interested in ML/DL learning through and many courses of marketing
   
   I really love to learning new things in Data management and marketing field 
   
@@ -26,4 +26,4 @@
   - I love commercial and marketing also looking for Bussiness field.
 
 
-** Currently looking for experience in Database Enginerring and Data Scientist Field :)
+## Currently looking for experience in Database Enginerring and Data Scientist Field :)
