@@ -31,6 +31,7 @@
 
 # Contact Me
  - [Facebook](https://www.facebook.com/ThanakunChunkalop/)
- - [thoopkub7@gmail.com]
+ - [Instagram](https://www.instagram.com/_thoop_/)
+ - thoopkub7@gmail.com
  
 
