@@ -1,4 +1,4 @@
-<!--
+
   Hi There ! , I am student of Faculty of Engineering , Chiang mai University 3rd year.
   
   interested in ML/DL learning through many courses of marketing
@@ -27,4 +27,3 @@
 
 
 ** Currently looking for experience in Database Enginerring and Data Scientist Field :)
--->
