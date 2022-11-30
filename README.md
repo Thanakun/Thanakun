@@ -26,4 +26,4 @@
   - I love commercial and marketing also looking for Bussiness field.
 
 
-## Currently looking for experience in Database Enginerring and Data Scientist Field :)
+## 📌 Currently looking for experience in Database Enginerring and Data Scientist Field :)
