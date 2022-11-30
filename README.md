@@ -29,3 +29,8 @@
 ## 📌 Currently looking for experience in Database Enginerring and Data Scientist Field :)
 
 
+# Contact Me
+ - [Facebook](https://www.facebook.com/ThanakunChunkalop/)
+ - [thoopkub7@gmail.com]
+ 
+
