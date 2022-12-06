@@ -7,14 +7,14 @@
   
   Always looking for oppotunity. TY <3
 
-# Course that i learned so far:
+# Courses that i learned so far:
   - Database: DBMS , indexing , Data optimization , PHP , Laravel . Design Data pipeline and normalization of database. Contribution in project as database designer
   - Basic Computer Engineering courses : Computer network , Database System , Data Structure and Algorithm , Object Oriented  Programming , Discrete Mathematic
   - innovation of Marketing : marketing model , marketing growth , planning and finacial of bussiness 
   - Frontend Web Development : Using React , Html , CSS , JavaScript 
   - Backend Web Development : Java, SpringBoot , PHP
  
-# Course that i still learning:
+# Courses that i still learning:
   - Machine Learning , Data Scientist courses.
   - Data Mining
   - Advance Database , Database Optimization
