@@ -20,6 +20,7 @@
   - Advance Database , Database Optimization
   - R langauge for data scientist
   - Python for data scientist
+  - Latex for documentation
   
 # My interesting Job & Plan for the future:
   - I want to be in Database and Data scientist including ML/DL field.
