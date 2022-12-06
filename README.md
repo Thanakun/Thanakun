@@ -9,7 +9,7 @@
 
 # Course that i learned so far:
   - Database: DBMS , indexing , Data optimization , PHP , Laravel . Design Data pipeline and normalization of database. Contribution in project as database designer
-  - Basic Computer Engineering courses : Computer network , Database System , Data Structure and Algorithm , Oriented Object Programming 
+  - Basic Computer Engineering courses : Computer network , Database System , Data Structure and Algorithm , Oriented Object Programming , Discrete Mathematic
   - innovation of Marketing : marketing model , marketing growth , planning and finacial of bussiness 
   - Frontend Web Development : Using React , Html , CSS , JavaScript 
   - Backend Web Development : Java, SpringBoot , PHP
