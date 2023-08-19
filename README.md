@@ -27,10 +27,12 @@
   - I loving to developing AI and learning the new tools 
   - recently interest on the algorithm and feature developing techniques and skills for improving on development skill , analyst 
 
-## 📌 Currently looking for experience in Data Engineer , Mobile Developer , Go-lang Developer , Data Analyst
+## 📌 Currently Intern Full-time As a Developer At TCC Technology Soultion.
+## 🔍 Looking for growth in Technology career
 
 
 # Contact Me
+ - [Linkedin](https://www.linkedin.com/in/thanakun-chunkalop-2aa58b259/)
  - [Facebook](https://www.facebook.com/ThanakunChunkalop/)
  - [Instagram](https://www.instagram.com/_thoop_/)
  - thoopkub7@gmail.com
