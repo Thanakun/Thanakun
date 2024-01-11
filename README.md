@@ -27,7 +27,7 @@
   - I loving to developing AI and learning the new tools 
   - recently interest on the algorithm and feature developing techniques and skills for improving on development skill , analyst 
 
-## 📌 Currently Intern Full-time As a Developer At TCC Technology Soultion.
+## 📌 Currently Part-Time As a Developer At TCC Technology Soultion.
 ## 🔍 Looking for growth in Technology career
 
 
